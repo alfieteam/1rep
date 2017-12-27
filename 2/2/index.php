@@ -19,6 +19,8 @@ echo "<br>";
 echo "Переменная boolean = $boolean";
 echo "<br>";
 echo 'В одинарных кавычках переменные не интерпритируются, например $integer .';
+echo "<br>";
+echo "Второй коммит";
 
 ?>
 </body>
