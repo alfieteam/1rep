@@ -24,7 +24,7 @@ echo "Третий коммит";
 echo "<br>";
 echo "Третий коммит";
 echo "<br>";
-echo "Третий коммит";
+echo "hello new branch";
 
 ?>
 </body>
